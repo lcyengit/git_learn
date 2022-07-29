@@ -5,5 +5,6 @@ public class gitte {
         System.out.println("hello,git!!!");
         System.out.println("hello,git1");
         System.out.println("hello,master");
+        System.out.println("hello  hot-fix");
     }
 }
